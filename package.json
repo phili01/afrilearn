@@ -44,5 +44,6 @@
     "postcss-mixins": "^6.2.3",
     "postcss-preset-env": "^6.7.0",
     "postcss-simple-vars": "^5.0.2"
-  }
+  },
+  "homepage" : "http://phili01.github.io/docs"
 }
