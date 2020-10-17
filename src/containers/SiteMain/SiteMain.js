@@ -20,7 +20,7 @@ class SiteMain extends Component {
             navClass = ["bg-gray-900 w-full text-white px-2 absolute "]
         }
         return (
-            <main className="">
+            <main className="font-defualt">
                 <header className="container mx-auto px-2 py-1 text-base relative flex flex-row  items-center flex-shrink justify-between">
                     <div className="bg-red-800 w-10 h-12 mr-4 flex justify-center items-center text-2xl text-white">
                         A
