@@ -170,7 +170,7 @@ class SiteMain extends Component {
                                 </div>
                                 <div className="w-full lg:w-1/3 flex items-center flex-col lg:px-4 mb-8">
                                    <div className="shadow-2xl rounded-md">
-                                        <img src="https://th.bing.com/th/id/OIP.7Ynz1fXK7VGK9ARZoce3JAHaE8?pid=Api&rs=1" alt="" className="w-full h-40 bg-gray-500 rounded-t-md object-cover"/>
+                                        <img src="https://th.bing.com/th/id/OIP.RzTqrxvFOS2Dz-FS7zkbZQHaFc?pid=Api&rs=1" alt="" className="w-full h-40 bg-gray-500 rounded-t-md object-cover"/>
                                         <p className="px-2 pt-2">How to program for beginner/intermediate learner
                                         in this tutorial we teach you the basics, core, fundamental</p>
                                         <ul className="flex flex-row px-2 mt-2 text-gray-600">
@@ -197,7 +197,7 @@ class SiteMain extends Component {
                                 </div>
                                 <div className="w-full lg:w-1/3 flex items-center flex-col lg:pl-4 mb-8">
                                    <div className="shadow-2xl rounded-md">
-                                        <img src="https://th.bing.com/th/id/OIP.7Ynz1fXK7VGK9ARZoce3JAHaE8?pid=Api&rs=1" alt="" className="w-full h-40 bg-gray-500 rounded-t-md object-cover"/>
+                                        <img src="https://th.bing.com/th/id/OIP.bRgmZarVa1shwJKfvE-IMQHaE4?pid=Api&w=790&h=520&rs=1" alt="" className="w-full h-40 bg-gray-500 rounded-t-md object-cover"/>
                                         <p className="px-2 pt-2">How to program for beginner/intermediate learner
                                         in this tutorial we teach you the basics, core, fundamental</p>
                                         <ul className="flex flex-row px-2 mt-2 text-gray-600">
@@ -288,7 +288,7 @@ class SiteMain extends Component {
                     </div>
                 </section>
                 <footer className="mt-8 bg-gray-900 border-t-2 border-primary">
-                    <div className="container mx-auto flex flex-col md:flex-row justify-between text-white text-sm leading-10 px:2 md:px-0">
+                    <div className="container mx-auto flex flex-col md:flex-row justify-between text-white text-sm leading-10 px-2 md:px-0">
                         <ul className="">
                             <li>Service</li>
                             <li>Blog</li>
